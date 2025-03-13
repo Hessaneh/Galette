@@ -1,4 +1,4 @@
-# Galette with Peach and Blueberry 🍑🫐
+# Galette with Peach and Blueberry 
 
 ## **Ingredients**
 - 1 pre-made **whole wheat pastry crust** (or gluten-free alternative)
@@ -17,10 +17,9 @@
 8. Line a **baking sheet with parchment paper** and lightly grease with **olive oil** or **coconut oil**.
 9. Transfer the **galette** to the baking sheet and bake for **30-35 minutes**, or until golden and crispy.
 10. Remove from oven and sprinkle **another tablespoon of powdered stevia**.
-11. Cut into pieces, **serve**, and **enjoy**! 🎉
+11. Cut into pieces, **serve**, and **enjoy**! 
 
 ---
-📷 *Add an image below:*
-```md
-![Galette Image](https://upload.wikimedia.org/wikipedia/commons/6/64/Galette_des_Rois_2010.jpg)
+
+![Galette Image](https://www.cookingonthefrontburners.com/wp-content/uploads/2022/06/Easy-Blueberry-Peach-Galette-12h.jpg)
 
