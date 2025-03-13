@@ -1,5 +1,7 @@
 # Galette with Peach and Blueberry 
 
+![Galette Image](https://www.cookingonthefrontburners.com/wp-content/uploads/2022/06/Easy-Blueberry-Peach-Galette-12h.jpg)
+
 ## **Ingredients**
 - 1 pre-made **whole wheat pastry crust** (or gluten-free alternative)
 - 2-3 medium-size fresh **peaches** (with peel)
@@ -20,6 +22,4 @@
 11. Cut into pieces, **serve**, and **enjoy**! 
 
 ---
-
-![Galette Image](https://www.cookingonthefrontburners.com/wp-content/uploads/2022/06/Easy-Blueberry-Peach-Galette-12h.jpg)
 
