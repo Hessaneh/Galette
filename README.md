@@ -1,4 +1,4 @@
-# My Recipe Project ️REPOSITORY
+# My Recipe Project 
 
 Welcome to the My Galette Project!
 
